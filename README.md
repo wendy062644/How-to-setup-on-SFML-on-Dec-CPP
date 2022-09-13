@@ -1,5 +1,9 @@
 # How to setup SFML on Dec C++
-## First
-Clink the link below
+## Download
+1. Clink the link below
 https://www.sfml-dev.org/download.php
-![image](https://user-images.githubusercontent.com/75311991/189908641-c2072e82-eab5-4067-a183-8086039ef777.png)
+2. Click the "Older versions
+![image](https://user-images.githubusercontent.com/75311991/189909347-95b0fbe0-c62e-4274-9d2e-09282a52cac4.png)
+3. Choose "SFML2.4.X"
+![image](https://user-images.githubusercontent.com/75311991/189909559-c3c0498a-0ec1-4f3e-a7b2-7ec708e3715e.png)
+## Setup on Dev c++
