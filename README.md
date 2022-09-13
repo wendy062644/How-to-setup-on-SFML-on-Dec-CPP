@@ -1,1 +1,1 @@
-## How-to-setup-on-SFML-on-Dec-CPP
+## How to setup on SFML on Dec-CPP
