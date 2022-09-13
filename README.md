@@ -1,3 +1,3 @@
 ## How to setup on SFML on Dec C++
-#First
+# First
 https://www.sfml-dev.org/download.php
